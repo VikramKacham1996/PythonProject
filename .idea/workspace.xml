@@ -4,29 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e33a96a5-dda0-4dc0-85c3-58317ca747a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab0002_python_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab0010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab006_Variables_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab007_Variables_Identifier_Rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab008_Dynamically_typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab014s_Math_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab16.py" afterDir="false" />
+    <list default="true" id="e33a96a5-dda0-4dc0-85c3-58317ca747a0" name="Changes" comment="7th nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab020_BuiltIn_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab022_User_Input_Sum_Of_Two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab21_UserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab16.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +57,7 @@
     "Python.Lab0010.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
+    "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
     "Python.Lab006_Variables_Types (1).executor": "Run",
     "Python.Lab007_Variables_Identifier_Rules.executor": "Run",
@@ -79,7 +67,15 @@
     "Python.Lab012.executor": "Run",
     "Python.Lab013.executor": "Run",
     "Python.Lab014s_Math_Function.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab020_BuiltIn_Functions (1).executor": "Run",
+    "Python.Lab022_User_Input_Sum_Of_Two_numbers.executor": "Run",
     "Python.Lab16.executor": "Run",
+    "Python.Lab21_UserInput.executor": "Run",
     "Python.print_output.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -92,8 +88,8 @@
       <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab16">
-    <configuration name="Lab011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab022_User_Input_Sum_Of_Two_numbers">
+    <configuration name="Lab019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab011.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab020_BuiltIn_Functions (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab012.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab020_BuiltIn_Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab020_BuiltIn_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab013.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_09112024)_Literals_variables\Lab020_BuiltIn_Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab014s_Math_Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab022_User_Input_Sum_Of_Two_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab014s_Math_Function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab022_User_Input_Sum_Of_Two_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab21_UserInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab21_UserInput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab16" />
-        <item itemvalue="Python.Lab014s_Math_Function" />
-        <item itemvalue="Python.Lab013" />
-        <item itemvalue="Python.Lab012" />
-        <item itemvalue="Python.Lab011" />
+        <item itemvalue="Python.Lab022_User_Input_Sum_Of_Two_numbers" />
+        <item itemvalue="Python.Lab21_UserInput" />
+        <item itemvalue="Python.Lab020_BuiltIn_Functions (1)" />
+        <item itemvalue="Python.Lab020_BuiltIn_Functions" />
+        <item itemvalue="Python.Lab019" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +225,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732636704266</updated>
     </task>
+    <task id="LOCAL-00001" summary="7th nov">
+      <option name="closed" value="true" />
+      <created>1732721482637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732721482637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="7th nov" />
   </component>
 </project>
