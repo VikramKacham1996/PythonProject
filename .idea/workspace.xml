@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e33a96a5-dda0-4dc0-85c3-58317ca747a0" name="Changes" comment="9th nov-paet2">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab029_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab030_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab031_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab032_Operators_Arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab033_Operators_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab035_Operators_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab036_Operators_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab037_Operators_P5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab038_Operators_P6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab039_Operators_P7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab040_Operators_P8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_Ternary_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab42_Coding_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lan041_User_input_Ternary_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/__init__.py" afterDir="false" />
+    <list default="true" id="e33a96a5-dda0-4dc0-85c3-58317ca747a0" name="Changes" comment="12th nov">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab028_Escape_Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab028_Escape_Char.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732780249414</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="12th nov">
+      <option name="closed" value="true" />
+      <created>1732956898579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732956898579</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -287,7 +279,8 @@
     <MESSAGE value="9th nov-Part2" />
     <MESSAGE value="9th nov" />
     <MESSAGE value="9th nov-paet2" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th nov-paet2" />
+    <MESSAGE value="12th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="12th nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
