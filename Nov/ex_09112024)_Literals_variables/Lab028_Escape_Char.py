@@ -12,3 +12,7 @@ print(dir)
 print("pramod'u\t\ta")
 print(r"pramod'u\t\ta") # r means row
 
+
+# literal is variable value
+# data type -> strore value
+
