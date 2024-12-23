@@ -5,7 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e33a96a5-dda0-4dc0-85c3-58317ca747a0" name="Changes" comment="12th nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_loops/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab049_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab050_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab053_While_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054_For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab055_For_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab056_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab057_Pass_Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab058_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab059_Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab060_Match_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab062_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab063_Function_Part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab065_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066_Pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067_function_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068_Functions_Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073_Real_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab64_Builts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab077_Local_Var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab078_Inner_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab079_Decortors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab080_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab081_WithoutDecor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab082_Real_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab083_Decor_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab084 _IQ_Leap_Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab085_IQ_FiizBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab086_IQ_Triangle_ Classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab087_Type_conversation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab089_for_Loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab020_BuiltIn_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab020_BuiltIn_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab022_User_Input_Sum_Of_Two_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab022_User_Input_Sum_Of_Two_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab023_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab023_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab024_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab024_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab025_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab025_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab027_Escape_Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab027_Escape_Char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab028_Escape_Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab028_Escape_Char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab029_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab030_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab030_Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab21_UserInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab21_UserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab26_Literals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab26_Literals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/lab042 test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/lab042 test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +95,16 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2pOUdmF6cOggyEitkNtFtQzoO63" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab)89_for_Loop.executor": "Run",
     "Python.Lab0002_python_Basics.executor": "Run",
     "Python.Lab0010.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
@@ -83,10 +143,50 @@
     "Python.Lab039_Operators_P7.executor": "Run",
     "Python.Lab040_Operators_P8.executor": "Run",
     "Python.Lab041_Ternary_Operators.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab049_For_Loop.executor": "Run",
+    "Python.Lab050_For_Loop.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab053_While_Loop.executor": "Run",
+    "Python.Lab054_For.executor": "Debug",
+    "Python.Lab055_For_break.executor": "Run",
+    "Python.Lab056_Q.executor": "Run",
+    "Python.Lab057_Pass_Break.executor": "Run",
+    "Python.Lab058_Q.executor": "Run",
+    "Python.Lab059_Continue.executor": "Run",
+    "Python.Lab060_Match_Statement.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062_Functions.executor": "Run",
+    "Python.Lab063_Function_Part2.executor": "Run",
+    "Python.Lab065_Functions.executor": "Run",
+    "Python.Lab066_Pass.executor": "Run",
+    "Python.Lab067_function_Types.executor": "Run",
+    "Python.Lab068_Functions_Input.executor": "Run",
+    "Python.Lab069_Functions_Types.executor": "Run",
+    "Python.Lab070_Functions_IQ.executor": "Run",
+    "Python.Lab071_IQ.executor": "Run",
+    "Python.Lab072_Args.executor": "Run",
+    "Python.Lab073_Real_args.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077_Local_Var.executor": "Run",
+    "Python.Lab078_Inner_functions.executor": "Run",
+    "Python.Lab079_Decortors.executor": "Run",
+    "Python.Lab080_Decor.executor": "Run",
+    "Python.Lab081_WithDecor.executor": "Run",
+    "Python.Lab082_Real_Decor.executor": "Run",
+    "Python.Lab083_Decor_2.executor": "Run",
+    "Python.Lab084 _IQ.executor": "Run",
+    "Python.Lab085_IQ_FiizBuzz.executor": "Run",
+    "Python.Lab086_IQ_Triangle_ Classifier.executor": "Run",
+    "Python.Lab087_Type_conversation.executor": "Run",
+    "Python.Lab089_for_Loop (1).executor": "Run",
     "Python.Lab16.executor": "Run",
     "Python.Lab21_UserInput.executor": "Run",
     "Python.Lab26_Literals.executor": "Run",
     "Python.Lab42_Coding_Q.executor": "Run",
+    "Python.Lab64_Builts.executor": "Run",
     "Python.Lan042_User_input_Ternary_Operators.executor": "Run",
     "Python.print_output.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -97,13 +197,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_12112024_Operators" />
       <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov" />
+      <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_12112024_Operators" />
+      <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_09112024_Literals_variables" />
       <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_07112024_keywords_identifier_variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab42_Coding_Q">
-    <configuration name="Lab029_Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab089_for_Loop (1)">
+    <configuration name="Lab085_IQ_FiizBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab029_Task1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab085_IQ_FiizBuzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab030_Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab086_IQ_Triangle_ Classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab030_Task2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab086_IQ_Triangle_ Classifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab041_Ternary_Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab087_Type_conversation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +257,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_Ternary_Operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab087_Type_conversation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab42_Coding_Q" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab089_for_Loop (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +279,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab42_Coding_Q.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab089_for_Loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lan041_User_input_Ternary_Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab089_for_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,11 +301,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_12112024_Operators\Lan041_User_input_Ternary_Operators.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_21112024_Functions_Scopes\Lab089_for_Loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,18 +316,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab42_Coding_Q" />
-        <item itemvalue="Python.Lab030_Task2" />
-        <item itemvalue="Python.Lab029_Task1" />
-        <item itemvalue="Python.Lan041_User_input_Ternary_Operators" />
-        <item itemvalue="Python.Lab041_Ternary_Operators" />
+        <item itemvalue="Python.Lab089_for_Loop (1)" />
+        <item itemvalue="Python.Lab089_for_Loop" />
+        <item itemvalue="Python.Lab087_Type_conversation" />
+        <item itemvalue="Python.Lab086_IQ_Triangle_ Classifier" />
+        <item itemvalue="Python.Lab085_IQ_FiizBuzz" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -271,7 +372,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732956898579</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="12th nov">
+      <option name="closed" value="true" />
+      <created>1732958709852</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732958709852</updated>
+    </task>
+    <task id="LOCAL-00006" summary="12th nov">
+      <option name="closed" value="true" />
+      <created>1732958960530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732958960531</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,14 +403,44 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab027_Escape_Char.py</url>
+          <url>file://$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab027_Escape_Char.py</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab029_Task1.py</url>
+          <url>file://$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab029_Task1.py</url>
           <line>21</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054_For.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054_For.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab063_Function_Part2.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
