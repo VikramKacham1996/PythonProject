@@ -4,65 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e33a96a5-dda0-4dc0-85c3-58317ca747a0" name="Changes" comment="12th nov">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_loops/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab049_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab050_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab053_While_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054_For.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab055_For_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab056_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab057_Pass_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab058_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab059_Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab060_Match_Statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab062_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab063_Function_Part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab065_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066_Pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067_function_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068_Functions_Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073_Real_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab64_Builts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab077_Local_Var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab078_Inner_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab079_Decortors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab080_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab081_WithoutDecor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab082_Real_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab083_Decor_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab084 _IQ_Leap_Year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab085_IQ_FiizBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab086_IQ_Triangle_ Classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab087_Type_conversation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab089_for_Loop.py" afterDir="false" />
+    <list default="true" id="e33a96a5-dda0-4dc0-85c3-58317ca747a0" name="Changes" comment="21th nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab090_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab091_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab092_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab093_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab094_Lambda_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab095_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab096_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab097_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab098_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab099Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab100_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab101_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab102_SET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab103_SET_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab104_SET_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab105_SET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/116_Dict_Dup_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab106_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab107_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab108_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab109_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab110_Dict_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab112_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab114_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab115_Dict_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab116_IQ_count_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab117_OOPS_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab118 Class_Dog .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab119 Class_Dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab120_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab121_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab122_Calc_Non_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab123_Calc_PC.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab020_BuiltIn_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab020_BuiltIn_Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab022_User_Input_Sum_Of_Two_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab022_User_Input_Sum_Of_Two_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab023_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab023_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab024_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab024_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab025_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab025_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab027_Escape_Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab027_Escape_Char.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab028_Escape_Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab028_Escape_Char.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab029_Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab030_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab030_Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab21_UserInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab21_UserInput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024)_Literals_variables/Lab26_Literals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_variables/Lab26_Literals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/lab042 test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/lab042 test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +82,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.116_Dict_Dup_Keys.executor": "Run",
     "Python.Lab)89_for_Loop.executor": "Run",
     "Python.Lab0002_python_Basics.executor": "Run",
     "Python.Lab0010.executor": "Run",
@@ -182,17 +161,51 @@
     "Python.Lab086_IQ_Triangle_ Classifier.executor": "Run",
     "Python.Lab087_Type_conversation.executor": "Run",
     "Python.Lab089_for_Loop (1).executor": "Run",
+    "Python.Lab090_Lambda.executor": "Run",
+    "Python.Lab091_Lambda.executor": "Run",
+    "Python.Lab092_Lambda.executor": "Run",
+    "Python.Lab093_Lambda.executor": "Run",
+    "Python.Lab094_Lambda_Mul.executor": "Run",
+    "Python.Lab095_Lambda.executor": "Run",
+    "Python.Lab096_List.executor": "Run",
+    "Python.Lab097_List.executor": "Run",
+    "Python.Lab098_List.executor": "Run",
+    "Python.Lab099Tuple.executor": "Run",
+    "Python.Lab100_Tuple.executor": "Run",
+    "Python.Lab101_Tuple.executor": "Run",
+    "Python.Lab102_SET.executor": "Run",
+    "Python.Lab103_SET_P2.executor": "Run",
+    "Python.Lab104_SET_P3.executor": "Run",
+    "Python.Lab105_SET.executor": "Debug",
+    "Python.Lab106_Dict.executor": "Run",
+    "Python.Lab107_Dict_P2.executor": "Run",
+    "Python.Lab108_Dict_Mul.executor": "Run",
+    "Python.Lab109_Dict_Mul.executor": "Run",
+    "Python.Lab110_Dict_Concepts.executor": "Run",
+    "Python.Lab111_Dict_Frequency_Char_String.executor": "Run",
+    "Python.Lab113_Dict_IQ_Max_Values.executor": "Run",
+    "Python.Lab114_IQ_Dict.executor": "Run",
+    "Python.Lab115_Dict_IQ.executor": "Run",
+    "Python.Lab116_IQ_count_vowel.executor": "Run",
+    "Python.Lab118 Class_Dog.executor": "Run",
+    "Python.Lab119 Class_Dog_P2.executor": "Run",
+    "Python.Lab120_Class_Dog_P3.executor": "Run",
+    "Python.Lab121_Class_Dog_P3.executor": "Run",
+    "Python.Lab122_Calc.executor": "Run",
+    "Python.Lab123_Calc_PC.executor": "Run",
     "Python.Lab16.executor": "Run",
     "Python.Lab21_UserInput.executor": "Run",
     "Python.Lab26_Literals.executor": "Run",
     "Python.Lab42_Coding_Q.executor": "Run",
     "Python.Lab64_Builts.executor": "Run",
     "Python.Lan042_User_input_Ternary_Operators.executor": "Run",
+    "Python.Lan112_Dict.executor": "Run",
     "Python.print_output.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -203,8 +216,8 @@
       <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_07112024_keywords_identifier_variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab089_for_Loop (1)">
-    <configuration name="Lab085_IQ_FiizBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab123_Calc_PC">
+    <configuration name="Lab119 Class_Dog_P2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab085_IQ_FiizBuzz.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_28112024_OOPS\Lab119 Class_Dog_P2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab086_IQ_Triangle_ Classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab120_Class_Dog_P3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab086_IQ_Triangle_ Classifier.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab120_Class_Dog_P3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab087_Type_conversation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab121_Class_Dog_P3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab087_Type_conversation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab121_Class_Dog_P3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab089_for_Loop (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab122_Calc_Non_PC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab089_for_Loop.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_28112024_OOPS\Lab122_Calc_Non_PC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab089_for_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab123_Calc_PC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -301,11 +314,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_21112024_Functions_Scopes\Lab089_for_Loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab123_Calc_PC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab089_for_Loop (1)" />
-        <item itemvalue="Python.Lab089_for_Loop" />
-        <item itemvalue="Python.Lab087_Type_conversation" />
-        <item itemvalue="Python.Lab086_IQ_Triangle_ Classifier" />
-        <item itemvalue="Python.Lab085_IQ_FiizBuzz" />
+        <item itemvalue="Python.Lab123_Calc_PC" />
+        <item itemvalue="Python.Lab122_Calc_Non_PC" />
+        <item itemvalue="Python.Lab121_Class_Dog_P3" />
+        <item itemvalue="Python.Lab120_Class_Dog_P3" />
+        <item itemvalue="Python.Lab119 Class_Dog_P2" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732958960531</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="21th nov">
+      <option name="closed" value="true" />
+      <created>1734935525220</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734935525220</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -397,7 +418,8 @@
     <MESSAGE value="9th nov" />
     <MESSAGE value="9th nov-paet2" />
     <MESSAGE value="12th nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th nov" />
+    <MESSAGE value="21th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="21th nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -441,6 +463,16 @@
           <url>file://$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py</url>
           <line>20</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab105_SET.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab105_SET.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
