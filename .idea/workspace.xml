@@ -4,42 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e33a96a5-dda0-4dc0-85c3-58317ca747a0" name="Changes" comment="21th nov">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab090_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab091_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab092_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab093_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab094_Lambda_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab095_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab096_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab097_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab098_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab099Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab100_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab101_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab102_SET.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab103_SET_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab104_SET_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab105_SET.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/116_Dict_Dup_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab106_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab107_Dict_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab108_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab109_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab110_Dict_Concepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab112_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab114_IQ_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab115_Dict_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_dict/Lab116_IQ_count_vowel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab117_OOPS_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab118 Class_Dog .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab119 Class_Dog_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab120_Class_Dog_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab121_Class_Dog_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab122_Calc_Non_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab123_Calc_PC.py" afterDir="false" />
+    <list default="true" id="e33a96a5-dda0-4dc0-85c3-58317ca747a0" name="Changes" comment="28th nov">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab133_Inheritance_single.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab134_Inheritance_Single.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab135_Inheritance_Multilevel .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab136_Inheritance_Multiple .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab137_Inheritance_Multiple .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab138_Inheritance_hierarchical .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab139_Inheritance_Hybrid .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab140_Inheritance_REAL_Example .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab141_Polymorphism .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab142_Polymorphism .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab143_Polymorphism_Method_Override .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab144_Poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab145_Poly_Method_Overloading_Fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab146_Poly_Method_Overloading_Fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab147_Poly_Method_Overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab148_Method_Overriding_REAL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab149_Abstraction_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab150_Abstraction_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab151_Abstraction_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab152_Abstraction_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab153_Static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab154_Static_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab155_OOps_Complete_Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab158_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab162_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab163_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab164_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab165_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab166_Exceptions_try_except_syntax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab167_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab168_Exceptions_Else_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab169_Exceptions_Else_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab170_Exceptions_os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab171_Exceptions_os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab172_Exceptions_os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab173_File_IO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab174_Exceptions_Custom_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab175_Main_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab176_Main_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab177_Main_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab178_Write_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab179_CSV_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab180_CSV_File_Pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/lab157_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/lab159_Exceptions.pyl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/lab160_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/lab161_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/CloseBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/OpenBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab180_Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab182_Modules_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab183_Import_From.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab184_Import_From.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/MySQLConnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab124_OOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab125_OOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab126_Class_Instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab127_Encap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab128_Encap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab129_Encap_Ft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab130_Encap_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab131_Encap_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab132_Ecap_Personal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +87,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -80,144 +118,213 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.116_Dict_Dup_Keys.executor": "Run",
-    "Python.Lab)89_for_Loop.executor": "Run",
-    "Python.Lab0002_python_Basics.executor": "Run",
-    "Python.Lab0010.executor": "Run",
-    "Python.Lab001_Python_HelloWorld.executor": "Run",
-    "Python.Lab003_Python_Basics.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab006_Variables_Types (1).executor": "Run",
-    "Python.Lab007_Variables_Identifier_Rules.executor": "Run",
-    "Python.Lab008_Dynamically_typed.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014s_Math_Function.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020.executor": "Run",
-    "Python.Lab020_BuiltIn_Functions (1).executor": "Run",
-    "Python.Lab022_User_Input_Sum_Of_Two_numbers.executor": "Run",
-    "Python.Lab023_Strings.executor": "Run",
-    "Python.Lab025_Strings.executor": "Run",
-    "Python.Lab027_Escape_Char.executor": "Run",
-    "Python.Lab028_Escape_Char.executor": "Run",
-    "Python.Lab029_Task1.executor": "Run",
-    "Python.Lab030_Task2.executor": "Run",
-    "Python.Lab031_Operators.executor": "Run",
-    "Python.Lab032_Operators_Arithmetic.executor": "Run",
-    "Python.Lab033_Operators_P1.executor": "Run",
-    "Python.Lab033_Operators_P2.executor": "Run",
-    "Python.Lab035_Operators_P3.executor": "Run",
-    "Python.Lab036_Operators_P4.executor": "Run",
-    "Python.Lab037_Operators_P5.executor": "Run",
-    "Python.Lab038_Operators_P6.executor": "Run",
-    "Python.Lab039_Operators_P7.executor": "Run",
-    "Python.Lab040_Operators_P8.executor": "Run",
-    "Python.Lab041_Ternary_Operators.executor": "Run",
-    "Python.Lab048.executor": "Run",
-    "Python.Lab049_For_Loop.executor": "Run",
-    "Python.Lab050_For_Loop.executor": "Run",
-    "Python.Lab051.executor": "Run",
-    "Python.Lab052.executor": "Run",
-    "Python.Lab053_While_Loop.executor": "Run",
-    "Python.Lab054_For.executor": "Debug",
-    "Python.Lab055_For_break.executor": "Run",
-    "Python.Lab056_Q.executor": "Run",
-    "Python.Lab057_Pass_Break.executor": "Run",
-    "Python.Lab058_Q.executor": "Run",
-    "Python.Lab059_Continue.executor": "Run",
-    "Python.Lab060_Match_Statement.executor": "Run",
-    "Python.Lab061.executor": "Run",
-    "Python.Lab062_Functions.executor": "Run",
-    "Python.Lab063_Function_Part2.executor": "Run",
-    "Python.Lab065_Functions.executor": "Run",
-    "Python.Lab066_Pass.executor": "Run",
-    "Python.Lab067_function_Types.executor": "Run",
-    "Python.Lab068_Functions_Input.executor": "Run",
-    "Python.Lab069_Functions_Types.executor": "Run",
-    "Python.Lab070_Functions_IQ.executor": "Run",
-    "Python.Lab071_IQ.executor": "Run",
-    "Python.Lab072_Args.executor": "Run",
-    "Python.Lab073_Real_args.executor": "Run",
-    "Python.Lab075.executor": "Run",
-    "Python.Lab076.executor": "Run",
-    "Python.Lab077_Local_Var.executor": "Run",
-    "Python.Lab078_Inner_functions.executor": "Run",
-    "Python.Lab079_Decortors.executor": "Run",
-    "Python.Lab080_Decor.executor": "Run",
-    "Python.Lab081_WithDecor.executor": "Run",
-    "Python.Lab082_Real_Decor.executor": "Run",
-    "Python.Lab083_Decor_2.executor": "Run",
-    "Python.Lab084 _IQ.executor": "Run",
-    "Python.Lab085_IQ_FiizBuzz.executor": "Run",
-    "Python.Lab086_IQ_Triangle_ Classifier.executor": "Run",
-    "Python.Lab087_Type_conversation.executor": "Run",
-    "Python.Lab089_for_Loop (1).executor": "Run",
-    "Python.Lab090_Lambda.executor": "Run",
-    "Python.Lab091_Lambda.executor": "Run",
-    "Python.Lab092_Lambda.executor": "Run",
-    "Python.Lab093_Lambda.executor": "Run",
-    "Python.Lab094_Lambda_Mul.executor": "Run",
-    "Python.Lab095_Lambda.executor": "Run",
-    "Python.Lab096_List.executor": "Run",
-    "Python.Lab097_List.executor": "Run",
-    "Python.Lab098_List.executor": "Run",
-    "Python.Lab099Tuple.executor": "Run",
-    "Python.Lab100_Tuple.executor": "Run",
-    "Python.Lab101_Tuple.executor": "Run",
-    "Python.Lab102_SET.executor": "Run",
-    "Python.Lab103_SET_P2.executor": "Run",
-    "Python.Lab104_SET_P3.executor": "Run",
-    "Python.Lab105_SET.executor": "Debug",
-    "Python.Lab106_Dict.executor": "Run",
-    "Python.Lab107_Dict_P2.executor": "Run",
-    "Python.Lab108_Dict_Mul.executor": "Run",
-    "Python.Lab109_Dict_Mul.executor": "Run",
-    "Python.Lab110_Dict_Concepts.executor": "Run",
-    "Python.Lab111_Dict_Frequency_Char_String.executor": "Run",
-    "Python.Lab113_Dict_IQ_Max_Values.executor": "Run",
-    "Python.Lab114_IQ_Dict.executor": "Run",
-    "Python.Lab115_Dict_IQ.executor": "Run",
-    "Python.Lab116_IQ_count_vowel.executor": "Run",
-    "Python.Lab118 Class_Dog.executor": "Run",
-    "Python.Lab119 Class_Dog_P2.executor": "Run",
-    "Python.Lab120_Class_Dog_P3.executor": "Run",
-    "Python.Lab121_Class_Dog_P3.executor": "Run",
-    "Python.Lab122_Calc.executor": "Run",
-    "Python.Lab123_Calc_PC.executor": "Run",
-    "Python.Lab16.executor": "Run",
-    "Python.Lab21_UserInput.executor": "Run",
-    "Python.Lab26_Literals.executor": "Run",
-    "Python.Lab42_Coding_Q.executor": "Run",
-    "Python.Lab64_Builts.executor": "Run",
-    "Python.Lan042_User_input_Ternary_Operators.executor": "Run",
-    "Python.Lan112_Dict.executor": "Run",
-    "Python.print_output.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.116_Dict_Dup_Keys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab)89_for_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0002_python_Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_Python_Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_Variables_Types (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_Variables_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_Variables_Identifier_Rules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Dynamically_typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014s_Math_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_BuiltIn_Functions (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_User_Input_Sum_Of_Two_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027_Escape_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_Escape_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032_Operators_Arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033_Operators_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033_Operators_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab035_Operators_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036_Operators_P4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab037_Operators_P5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038_Operators_P6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039_Operators_P7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Operators_P8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041_Ternary_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab053_While_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab054_For.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab055_For_break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056_Q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057_Pass_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058_Q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab059_Continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060_Match_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063_Function_Part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab065_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab066_Pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab067_function_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068_Functions_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab069_Functions_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab070_Functions_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab071_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072_Args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab073_Real_args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab075.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab076.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab077_Local_Var.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab078_Inner_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab079_Decortors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080_Decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab081_WithDecor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab082_Real_Decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083_Decor_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab084 _IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab085_IQ_FiizBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab086_IQ_Triangle_ Classifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab087_Type_conversation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089_for_Loop (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab091_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab092_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab093_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab094_Lambda_Mul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab095_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab096_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab097_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab098_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab099Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab100_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab101_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab102_SET.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab103_SET_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab104_SET_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab105_SET.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab106_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab107_Dict_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab108_Dict_Mul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab109_Dict_Mul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab110_Dict_Concepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab111_Dict_Frequency_Char_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab113_Dict_IQ_Max_Values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab114_IQ_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab115_Dict_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab116_IQ_count_vowel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab118 Class_Dog.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab119 Class_Dog_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab120_Class_Dog_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab121_Class_Dog_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab122_Calc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab123_Calc_PC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab124_OOps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab125_OOps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab126_Class_Instance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab127_Encap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab128_Encap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab129_Encap_Ft.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab130_Encap_ENV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab130_Encap_Example (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab131_Encap_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab132_Ecap_Personal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab133_Inheritance_single.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab134_Inheritance_Single.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab135_Inheritance_Multilevel .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab136_Inheritance_Multiple .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab137_Inheritance_Multiple .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab138_Inheritance_hierarchical .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab139_Inheritance_Hybrid .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab140_Inheritance_REAL_Example .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab141_Polymorphism .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab142_Polymorphism .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab143_Polymorphism_Method_Override .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab144_Poly.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab145_Poly_Method_Overloading_Fixed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab146_Poly_Method_Overloading_Fixed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab147_Poly_Method_Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab148_Method_Overriding_REAL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab149_Abstraction_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab150_Abstraction_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab151_Abstraction_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab152_Abstraction_P4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab153_Static.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab154_Static_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab155_OOps_Complete_Program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab158_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab162_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab163_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab164_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab165_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab167_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab168_Exceptions_Else_Finally.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab170_Exceptions_Else_Finally.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab170_Exceptions_os (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab171_Exceptions_os.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab172_Exceptions_os.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab173_File_IO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab174_Exceptions_Custom_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab176_Main_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab177_Main_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab178_Write_File.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab179_CSV_File.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab180_CSV_File_Pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab180_Modules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab182_Modules_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab183_Import_From (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab183_Import_From.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab184_Import_From.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab21_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab26_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab42_Coding_Q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab64_Builts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lan042_User_input_Ternary_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lan112_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MySQLConnector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab157_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab159_Exceptions.pyl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab160_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab161_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_output.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vikky/PycharmProjects/PythonProject/Dec/ex_10122024_Modules&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Dec\ex_10122024_Modules" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Dec" />
       <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov" />
       <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_12112024_Operators" />
       <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_09112024_Literals_variables" />
       <recent name="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_07112024_keywords_identifier_variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab123_Calc_PC">
-    <configuration name="Lab119 Class_Dog_P2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab007_Variables_Identifier_Rules">
+    <configuration name="Lab003_Python_Basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,11 +333,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_28112024_OOPS\Lab119 Class_Dog_P2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +346,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab120_Class_Dog_P3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,11 +355,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab120_Class_Dog_P3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +368,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab121_Class_Dog_P3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,11 +377,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab121_Class_Dog_P3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,7 +390,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab122_Calc_Non_PC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab006_Variables_Types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,11 +399,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vikky\PycharmProjects\PythonProject\Nov\ex_28112024_OOPS\Lab122_Calc_Non_PC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab006_Variables_Types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +412,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab123_Calc_PC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab007_Variables_Identifier_Rules" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,11 +421,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab123_Calc_PC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab007_Variables_Identifier_Rules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,11 +436,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab123_Calc_PC" />
-        <item itemvalue="Python.Lab122_Calc_Non_PC" />
-        <item itemvalue="Python.Lab121_Class_Dog_P3" />
-        <item itemvalue="Python.Lab120_Class_Dog_P3" />
-        <item itemvalue="Python.Lab119 Class_Dog_P2" />
+        <item itemvalue="Python.Lab007_Variables_Identifier_Rules" />
+        <item itemvalue="Python.Lab006_Variables_Types" />
+        <item itemvalue="Python.Lab005" />
+        <item itemvalue="Python.Lab004" />
+        <item itemvalue="Python.Lab003_Python_Basics" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734935525220</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="28th nov">
+      <option name="closed" value="true" />
+      <created>1735501284687</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735501284687</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -419,7 +534,8 @@
     <MESSAGE value="9th nov-paet2" />
     <MESSAGE value="12th nov" />
     <MESSAGE value="21th nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="21th nov" />
+    <MESSAGE value="28th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="28th nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -473,6 +589,11 @@
           <url>file://$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set_Filters/Lab105_SET.py</url>
           <line>6</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab130_Encap_Example.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
